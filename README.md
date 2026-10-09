@@ -34,9 +34,6 @@ This project analyzes airline passenger satisfaction using Python and Machine Le
 ## Key Areas
 
 Data Analysis, Data Cleaning, Exploratory Data Analysis, Data Visualization, Classification, and Model Evaluation.
-
-##
-
 ---
 
 This project was developed for learning and portfolio purposes.
